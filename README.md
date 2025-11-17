@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/saurabh_irt" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_irt?logo=twitter&style=for-the-badge" alt="saurabh_irt" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and Frontend Development**
+- 🌱 I’m currently learning ****
 
-- 📫 How to reach me **saurabhofficial8840@gmail.com**
+- 📫 How to reach me **saurabhofficial8840@gmail.com**Backend Development & AI
 
 - ⚡ Fun fact **I am Funny**
 
