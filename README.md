@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/saurabh_irt" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_irt?logo=twitter&style=for-the-badge" alt="saurabh_irt" /></a> </p>
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **Backend Development & AI**
 
-- 📫 How to reach me **saurabhofficial8840@gmail.com**Backend Development & AI
+- 📫 How to reach me **saurabhofficial8840@gmail.com** 
 
 - ⚡ Fun fact **I am Funny**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/saurabh_irt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabh_irt" height="30" width="40" /></a>
 <a href="https://instagram.com/saurabh_irt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabh_irt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sauarbh_irt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauarbh_irt" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/sauarbh_irt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sauarbh_irt" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
