@@ -31,7 +31,7 @@ Currently, I am engineering **automated data pipelines** that leverage LLMs to c
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh8840&theme=tokyonight&hide_border=false&background=0D1117" alt="Current Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh8840&theme=tokyonight&hide_border=false&background=0D1117" alt="Current Streak" width="68%" />
 </div>
 
 ---
