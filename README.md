@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Hi,+I'm+Saurabh+Tripathi;Backend+Systems+Architect;AI+%26+Scalable+API+Engineer;Building+the+Future+of+SaaS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Hi,+I'm+Saurabh+Tripathi;Backend+Systems+Architect;AI+%26+Scalable+API+Engineer;Building+Next-Gen+SaaS" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,12 +12,16 @@
   <a href="mailto:saurabhofficial8840@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/saurabh8840">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 <br />
+
+<div align="center">
+  <h3>🏆 GitHub Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabh8840&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="saurabh8840" />
+</div>
+
+---
 
 <h3>🚀 About Me</h3>
 <p>
@@ -40,32 +44,18 @@ I am a <b>Software Engineer</b> focused on solving complex problems using <b>Bac
 
 ---
 
-<h3>🏆 Selected Projects</h3>
-
-#### 📑 [Invoice Manager AI](https://github.com/saurabh8840)
-> *Solving manual data entry with GenAI.*
-* **Core:** Upload PDF Invoices -> AI Extracts Data -> Returns JSON.
-* **Tech:** Node.js, Google Gemini 1.5 Pro, Multer (File Handling).
-* **Impact:** Automates structured data extraction from unstructured PDF files.
-
-#### 🦷 [Dentwise SaaS](https://github.com/saurabh8840)
-> *A complete Dental Management System.*
-* **Features:** AI Voice Booking (Vapi AI), RBAC (Clerk), Subscriptions (Stripe).
-* **Tech:** Next.js 14, PostgreSQL, Prisma ORM.
-
-#### 📹 [YouTube Backend Replica](https://github.com/saurabh8840)
-> *Understanding system design at scale.*
-* **Features:** Video aggregation pipelines, JWT Auth, Scalable Schema Design.
-* **Tech:** MongoDB Aggregations, Express.js, Docker.
-
----
-
-<h3>📊 Contributions & Stats</h3>
+<h3>📊 Coding Activity</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh8840&show_icons=true&theme=radical&hide_border=true" alt="Saurabh's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh8840&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh8840&theme=nightowl&hide_border=true&stroke=0000&background=0D1117" alt="GitHub Streak" />
+  
+  <br/> <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabh8840&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  
+  <br/> <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh8840&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br />
