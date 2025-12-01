@@ -1,3 +1,7 @@
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh8840&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh8840" /> </p>
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Hi,+I'm+Saurabh+Tripathi;Backend+Developer+in+Progress;Building+AI+Integrated+Apps;Learning+System+Design+in+Depth" />
 </div>
